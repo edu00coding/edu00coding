@@ -1,9 +1,20 @@
- ** Programando Segurança **
+# 👨‍💻 Antônio Eduardo | @edu00coding | Programando Segurança
 
-Focado em C C # .Net para o sistema operacional Windows 
+🎯 Focado em desenvolvimento com **C, C# e .NET** para Windows  
+🐍 Explorando automações e ferramentas com **Python**  
+🧠 Apaixonado por **lógica de programação** e **resolução de problemas técnicos**
 
-Ferramentas em Python
+## 🚀 Projetos em destaque
 
-Logica de programação para inciantes 
+- 🔧 Ferramentas Python para suporte técnico
+- 💻 [Utilitários em C# para Windows](https://github.com/edu00coding/csharp-windows-utilsndizados recentes
 
-Resolução de problemas para suportes técnicos 
+- ASP.NET Core
+- Git e GitHub
+- Automação com Python
+- Estrutura de dados e algoritmos
+
+---
+
+📫 **Contato**: antonio_eduardo.silva@outlook.com.br
+
