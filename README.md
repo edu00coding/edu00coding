@@ -7,7 +7,7 @@
 ## 🚀 Projetos em destaque
 
 - 🔧 Ferramentas Python para suporte técnico
-- 💻 [Utilitários em C# para Windows](https://github.com/edu00coding/csharp-windows-utilsndizados recentes
+- 💻 [Utilitários em C# para Windows]
 
 - ASP.NET Core
 - Git e GitHub
