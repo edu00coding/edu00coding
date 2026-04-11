@@ -1,21 +1,22 @@
-# 👨‍💻 Antônio Eduardo | @edu00coding | Programando Segurança
+# 👨‍💻 Antônio Eduardo | @edu00coding
 
-🎯 Focado em desenvolvimento com **C, C# e .NET** para Windows  
-🐍 Explorando automações e ferramentas com **Python**  
-🧠 Apaixonado por **lógica de programação** e **resolução de problemas técnicos**
+### Cybersecurity & Cloud Enthusiast | Python & DevOps
 
-## 🚀 Projetos em destaque
+Profissional em transição para as áreas de Cloud e Automação. Utilizo Python para desenvolver soluções práticas de análise de dados e monitoramento de infraestrutura.
 
-- 🔧 Ferramentas Python para suporte técnico
-- 💻 [Utilitários em C# para Windows]
-
-- ASP.NET Core
-- Git e GitHub
-- Automação com Python
-- Estrutura de dados e algoritmos
+- 🐍 **Foco:** Automação com Python, Análise de Dados e Segurança.
+- ☁️ **Estudos:** AWS, DevOps e Linux (Mint Cinnamon).
+- 📖 **Abordagem:** Aprendizado contínuo através da resolução de problemas reais.
 
 ---
 
-📫 **Contato**: antonio_eduardo.silva@outlook.com.br
+### 📂 Projetos em Destaque
 
-📷 @edu.sec.e
+* **[infra-incident-analyzer](https://github.com/edu00coding/infra-incident-analyzer)**
+    *Analisador de incidentes que cruza inventários e logs de erro (JSON/CSV) para identificar falhas críticas em servidores.*
+
+---
+
+### 📫 Contato
+- 🔗 [LinkedIn](https://www.linkedin.com/in/antonio-eduardo-305340360/)
+- 📧 antonio_eduardo.silva@outlook.com.br
