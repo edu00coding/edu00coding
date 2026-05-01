@@ -8,7 +8,7 @@ Profissional Hibrido. Utilizo Python para desenvolver soluções práticas de an
 - ☁️ **Estudos:** Dados, Devops, Network and Cybersecurity
 - 📖 **Abordagem:** Aprendizado contínuo através da resolução de problemas reais.
 - <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,docker,terraform,aws,github,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,linux,docker,terraform,bash&theme=dark" />
 </p>
 
 ---
